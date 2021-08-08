@@ -1,0 +1,1 @@
+Learning GIT through The Odin Project. This is polina-g's first git project! (It's not really)
